@@ -1,24 +1,22 @@
 {
-  "name": "nodeprojects",
+  "name": "register-main",
   "version": "1.0.0",
-  "description": "new file",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaReddy123/wd201-L2.git"
   },
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nithish1018/wd202-node.git"
-  },
   "bugs": {
-    "url": "https://github.com/nithish1018/wd202-node/issues"
+    "url": "https://github.com/NikitaReddy123/wd201-L2/issues"
   },
-  "homepage": "https://github.com/nithish1018/wd202-node#readme",
+  "homepage": "https://github.com/NikitaReddy123/wd201-L2#readme",
   "dependencies": {
-    "eslint": "^8.23.1",
-    "minimist": "^1.2.6"
+    "minimist": "^1.2.7"
   }
 }
